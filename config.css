@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    
+}
+
+#bersis-amk {
+    text-align: center;
+}
+
+#bersis-amk-resim {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
